@@ -36,7 +36,7 @@ ABOUT = """
 
 ➥ Filmcognito SERIES : [Click Me](https://t.me/filmcognitoseries)
 
-➥ Filmcognito LIVE  : [Click Me](https://t.me/livesmatches)
+➥ Filmcognito LIVE  : [Click Me](https://t.me/filmcognitolives)
 
 
 """
