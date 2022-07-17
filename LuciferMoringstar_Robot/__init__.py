@@ -28,14 +28,15 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  ROLEX automated..
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : FILMCOGNITO CORP.. 
 
-➥ Language : Python3
+➥ Filmcognito MOVIES : [Click Me](https://t.me/filmcognitomovies)
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Filmcognito SERIES : [Click Me](https://t.me/filmcognitoseries)
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Filmcognito LIVE  : [Click Me](https://t.me/livesmatches)
+
+
 """
